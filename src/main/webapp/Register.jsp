@@ -27,7 +27,7 @@
                       {
                           if(result.available==0)
                           {
-                          $("#emailStatus").html("<b style='color:green'>&#10004;</b>");
+                          $("#emailStatus").html("<b style='color:blue'>&#10004;</b>");
                            }
                            else
                            {
